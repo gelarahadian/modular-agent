@@ -219,25 +219,3 @@ The orchestration core does not require structural modification.
 * Metrics instrumentation
 
 ---
-
-## Timeline Alignment
-
-Designed to align with a 2-week sprint model:
-
-Week 1:
-
-* Core architecture
-* 2 functional agents
-* Conditional routing
-
-Week 2:
-
-* Third agent
-* Logging & guardrails
-* Documentation & refinement
-
----
-
-## License
-
-MIT
