@@ -103,8 +103,8 @@ This makes it suitable for modular, production-oriented agent systems.
 ### 1. Clone Repository
 
 ```
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/gelarahadian/modular-agent.git
+cd modular-agent
 ```
 
 ### 2. Create Virtual Environment
